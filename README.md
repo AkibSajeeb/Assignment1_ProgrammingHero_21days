@@ -2,4 +2,4 @@
 Assignment1 Programming Hero 21days boot camp
 <h2>I'm completely new to HTML and CSS. I've put in my best effort to achieve the best results.</h2>
 Thank you --> Programming Hero <br>
-<a href="https://akibsajeeb.github.io/Assignment1_ProgrammingHero_21days/">Live Link<a/>
+<a href="https://akibsajeeb.github.io/Assignment1_ProgrammingHero_21days/" target="_blank">Live Link<a/>
